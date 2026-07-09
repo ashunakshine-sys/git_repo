@@ -8,5 +8,5 @@ def duplicate():
     print(s2)
     str3=s1 & s2 # gives only duplicate letter
     print(str3)
-
+    print ("ashwini")
 duplicate()
